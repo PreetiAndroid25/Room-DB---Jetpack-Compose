@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="text_my_notes">My Notes</string>
+    <string name="text_add_your_note">Add your note</string>
+    <string name="text_update_your_note">Update your note</string>
+    <string name="text_title">Title</string>
+    <string name="text_description">Description</string>
+    <string name="text_add">Add</string>
+    <string name="text_dismiss">Dismiss</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_view">View</string>
+    <string name="text_edit">Edit</string>
+    <string name="text_update">Update</string>
+    <string name="title_activity_note_detail">NoteDetailActivity</string>
+    <string name="back">Back</string>
+</resources>
